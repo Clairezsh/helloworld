@@ -1,3 +1,5 @@
 # helloworld
 
-In the editor, write a bit about yourself.
+Hi, Humans!
+
+I like Node.js and Coffeescript.
